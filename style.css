@@ -1,0 +1,44 @@
+<style>
+        body{
+            background-color: #fefae0 ;
+            font-size: 16px;
+            font-family: 'Source Sans Pro', sans-serif;
+            text-align: center;
+        }
+        h1{
+            font-family: 'Gloria Hallelujah', sans-serif;
+        }
+        ul{
+            width: fit-content;
+            margin-left: auto;
+            margin-right: auto; 
+
+        }
+        #novamente{
+            list-style-type: none;
+        }
+        #foto_inicial{
+            border-radius: 100px;
+        }
+        #breve_descricao{
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 1em;
+        }
+        #descricao_foto{
+            font-family: 'Source Sans Pro', sans-serif;
+            font-size: 0.8em;
+            font-style: italic;
+        }
+        .cerveja{
+            font-size: 1.3em;
+        }
+        .violao{
+            font-size: 1.2em;
+        }
+        .empatico{
+            font-size: 1.1em;
+        }
+        .esforcado{
+            font-size: 1em;
+        }
+    </style>
