@@ -1,5 +1,5 @@
 body {
-    background-color: #fefae0;
+    background-color: #FEF5ED;
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
@@ -7,6 +7,7 @@ body {
 
 h1 {
     font-family: 'Gloria Hallelujah', sans-serif;
+    color: #5f645f
 }
 
 ul {
