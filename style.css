@@ -3,7 +3,6 @@
 }
 
 body {
-    background-color: #FEF5ED;
     font-size: 16px;
     font-family: 'Source Sans Pro', sans-serif;
     text-align: center;
@@ -11,15 +10,18 @@ body {
 
 header {
     font-family: 'Gloria Hallelujah', sans-serif;
+    background-color: #e2f5de;
     color: #5f645f;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 footer {
     background-color: #99A799;
+    text-align: right;
 }
 
 .princial {
+    margin-top: 10px;
     background-color: #ADC2A9;
 }
 
@@ -28,6 +30,19 @@ ul {
     margin-left: auto;
     margin-right: auto;
     list-style-type: none;
+    padding: 0px;
+}
+
+#nome {
+    text-align: left;
+    font-size: 0.75em;
+    margin-left: 10px;
+    float: left;
+}
+
+#assinatura {
+    margin-right: 10px;
+    font-size: 00.75em;
 }
 
 #novamente {
@@ -42,6 +57,7 @@ ul {
 #breve_descricao {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 1em;
+    margin: 0 25% 20px;
 }
 
 #descricao_foto {
@@ -51,6 +67,14 @@ ul {
     margin-left: 35%;
     margin-right: 35%;
     margin-bottom: 20px;
+}
+
+#github:hover {
+    opacity: 60%;
+}
+
+#linkedin:hover {
+    opacity: 60%;
 }
 
 .cerveja {
@@ -67,4 +91,8 @@ ul {
 
 .esforcado {
     font-size: 1em;
+}
+
+.gitedin {
+    display: inline;
 }
