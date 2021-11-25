@@ -10,8 +10,13 @@ body {
 
 header {
     font-family: 'Gloria Hallelujah', sans-serif;
-    background-color: #e2f5de;
+    background-color: #c8dac4;
     color: #5f645f;
+}
+
+h3,
+h2 {
+    padding: 20px;
 }
 
 footer {
@@ -94,4 +99,9 @@ ul {
 
 .gitedin {
     display: inline;
+}
+
+#blog {
+    padding-top: 10px;
+    font-size: 1.1em;
 }
