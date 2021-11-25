@@ -1,3 +1,7 @@
+* {
+    margin: 0px;
+}
+
 body {
     background-color: #FEF5ED;
     font-size: 16px;
@@ -5,15 +9,25 @@ body {
     text-align: center;
 }
 
-h1 {
+header {
     font-family: 'Gloria Hallelujah', sans-serif;
-    color: #5f645f
+    color: #5f645f;
+    margin-bottom: 20px;
+}
+
+footer {
+    background-color: #99A799;
+}
+
+.princial {
+    background-color: #ADC2A9;
 }
 
 ul {
     width: fit-content;
     margin-left: auto;
     margin-right: auto;
+    list-style-type: none;
 }
 
 #novamente {
@@ -22,6 +36,7 @@ ul {
 
 #foto_inicial {
     border-radius: 100px;
+    margin-bottom: 0px;
 }
 
 #breve_descricao {
@@ -33,6 +48,9 @@ ul {
     font-family: 'Source Sans Pro', sans-serif;
     font-size: 0.8em;
     font-style: italic;
+    margin-left: 35%;
+    margin-right: 35%;
+    margin-bottom: 20px;
 }
 
 .cerveja {
